@@ -11,7 +11,7 @@
         <div class="row align-items-end">
             <div class="col">
                 <label for="" class="form-label">Name</label>
-                <input type="text" class="form-control" name="name" required >
+                <input type="text" class="form-control" name="name"  >
             </div>
             <div class="col">
                 <button class="btn btn-primary btn-lg w-50">Create</button>
